@@ -36,6 +36,7 @@
 
 .container__botao:checked~.lista-menu {
     display: block;
+    z-index: 100;
 }
 
 .lista-menu__titulo, .lista-menu__item {
