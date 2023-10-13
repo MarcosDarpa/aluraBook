@@ -166,4 +166,8 @@
   .container__texto {
     display: block;
   }
+
+  .botões__ancora:active{
+    background-color: var(--azul);
+  }
 }

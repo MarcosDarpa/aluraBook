@@ -54,4 +54,8 @@ hr {
     .rodapé {
         padding: 3em 0;
     }
+
+    .lista-rodape__link:hover{
+        color: var(--laranja);
+    }
 }
